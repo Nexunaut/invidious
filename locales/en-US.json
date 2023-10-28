@@ -1,4 +1,5 @@
 {
+    "generic_test_change": "Test Change",
     "generic_channels_count": "{{count}} channel",
     "generic_channels_count_plural": "{{count}} channels",
     "generic_views_count": "{{count}} view",
